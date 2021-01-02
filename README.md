@@ -12,6 +12,7 @@ Tout d'abord, installer kivy: étape à suivre dans ce lien :https://gist.github
 ### Initialisation de Network.py:
 dans Network.py, vous trouverez déja un example dinitialisation, pour pouvoir lancer le code:
 ![exemple d'init](https://github.com/Mustafalou/Network/blob/main/int.png)
+
 En gros, il vous fait créer un dictionnaire network dans lequel vous allez ajouter tous les noeuds en pair(noeud_conc:noeud_distrib),
 et ajouter les centrales électriques/clients dans les noeuds requis.
 
