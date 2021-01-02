@@ -1,0 +1,40 @@
+#: import FadeTransition kivy.uix.screenmanager.FadeTransition
+
+
+ScreenManagement:
+	transition: FadeTransition()
+	MainScreen:
+	EachNoeudScreen:
+	One_Noeud:
+
+<MainScreen>:
+	name: "main"
+	on_enter:
+		root.show()
+	Label:
+		text:"Hello to the Network Simulation Program"
+		font_size: 30
+		size_hint: 1,0.8
+		pos_hint: {"y":0.00}
+	Button:
+		on_press: app.root.current = "noeuds"
+		text: "Go Simulation"
+		font_size: 25
+		size_hint: 1,0.2
+		pos_hint: {"y":0.80}
+
+
+<EachNoeudScreen>:
+	name: "noeuds"
+	on_enter:
+		root.show_Noeuds()
+	on_leave:
+		root.clr()
+	
+
+<One_Noeud>:
+	name:'1noeud'
+	on_enter:
+		root.show()
+	on_leave:
+		root.clr()
