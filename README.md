@@ -1,5 +1,5 @@
-Participant : 1
-matricule : 17292
+Participant : 1,
+matricule : 17292,
 Nom et prénom: Yilmaz, Mustafa
 # Simulation de réseau
 
