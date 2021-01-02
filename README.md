@@ -10,3 +10,4 @@ Nom et prénom: Yilmaz, Mustafa
 ## Documentation
 Tout d'abord, installer kivy: étape à suivre dans ce lien :https://gist.github.com/qlurkin/343ac11da18bbda99f7150fd5fc80925
 ### Initialisation de Network.py:
+dans Network.py, vous trouverez déja un example dinitialisation, pour pouvoir lancer le code:
