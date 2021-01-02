@@ -31,3 +31,8 @@ Ainsi que des méthodes pour supprimer que je n'ai pas utiliser dans les screenm
 
 ### kivy:
 J'ai utilisé le screenmanager de kivy pour avoir une meilleure vision du réseau, alors que si c'était que vace le terminal il n'y aurait peut-être pas eu de compréhension.
+
+### bouton maj lors du lancement du script:
+Pour l'instant le bouton maj ne change que la météo grâce au module random.
+Bien sûr on aurait pu rajouter une simulation de marché grâce à une nouvelle fenêtre dans le screenmanager.
+Et rajouter un stockage dans chaque noeud_conc pour pouvoir le vendre dans la simulation de marché.
