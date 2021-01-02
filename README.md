@@ -1,4 +1,4 @@
 # Simulation de réseau
 
 ##Diagramme de Classes
-![](Diagramme de classes.jpg)
+![Diag de classes](Diagramme de classes.jpg)
