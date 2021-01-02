@@ -8,4 +8,5 @@ Nom et prénom: Yilmaz, Mustafa
 ## Diagramme de séquences
 ![Diag de séquences](https://github.com/Mustafalou/Network/blob/main/diaggrame%20de%20s%C3%A9quences.PNG)
 ## Documentation
+Tout d'abord, installer kivy: étape à suivre dans ce lien :https://gist.github.com/qlurkin/343ac11da18bbda99f7150fd5fc80925
 ### Initialisation de Network.py:
